@@ -7,7 +7,7 @@ I aspired to become a AI Engineering & Applied Data Scientist evangelist level w
 - 🔍 **Current Focus:** Building MVPs and Demos on Business Use Case Across Functional and Industry vertical.
 - 🌱 **Learning:** GenAI, Applied AI, LLM, Advanced NLP, Deep Learning, and AI for production.
 - 🛠️ **Skills:** Technology Solution Design and Consultant | Machine Learning | Data Scientist | Data-Driven AI use case Applications.
-- 🚀 **Portfolio:** [Visit My Website](https://yourwebsite.com](https://phamhuyen286.github.io/AI-Possible.github.io/)
+- 🚀 **Portfolio:** [Visit My Website](https://phamhuyen286.github.io/AI-Possible.github.io/)
 - 📧 **Contact:** thegioiphang8x@gmail.com
 
 ## Connect With Me
