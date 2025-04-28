@@ -67,7 +67,3 @@ I aspired to become a AI Engineering & Applied Data Scientist evangelist level w
 ![SaaS](https://img.shields.io/badge/SaaS-4285F4?style=for-the-badge&logo=saas&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-1E90FF?style=for-the-badge&logo=cloud&logoColor=white)
 ![GRC](https://img.shields.io/badge/GRC-2E8B57?style=for-the-badge&logo=grc&logoColor=white)
-
-## My GitHub Stats
-
-![Your GitHub Stats](https://phamhuyen286.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
