@@ -1,6 +1,6 @@
 # Hi, I'm Huyen Pham
 
-**Data Scientist | Machine Learning Engineering | AI Enthusiast | Aspirant AI Researcher | Women with Happy Family | Spiritual**
+**Women with Happy Family | Data Scientist | Machine Learning Engineering | AI Enthusiast | Aspirant AI Researcher |  Spiritual**
 
 I aspired to become a AI Engineering & Applied Data Scientist evangelist level with total work experience of 16+ years in diverse industry experience. Adept at leveraging data-driven insights  to solve complex business problems with my technical expertise , optimize processes, build solutions and drive revenue growth. Strong expertise in Google Cloud Platform (GCP),  AI and Machine Learning and Big Data Analytics. Experienced in numerous areas and possessing a wide range of business expertise, I have held various roles, including Country Lead Cloud Consultant, Regional Solution Director (APAC), Country Customer Success Manager, Business Development Manager, Business Consultant & Analyst, Project Management Officer, and Country Director for International Business Development in India & Vietnam.
 
